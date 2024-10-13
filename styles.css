@@ -1,0 +1,54 @@
+.container {
+  background-color: #edf2f8;
+  height: 750px;
+  width: 940px;
+  float: center;
+  justify-content: space-evenly;
+  
+}
+
+.first {
+  background-color: #733fc8;
+  background-image: url(./images/bg-pattern-quotation.svg);
+  height: 240px;
+  width: 440px;
+  background-repeat: no-repeat;
+  background-position: right top;
+  border-radius: 5px;
+  color: #eae3e3;
+  float: left;
+  
+}
+.second{
+background-color: #49556B;
+height:240px ;
+width: 210px;
+float: left;
+color: #eae3e3;
+border-radius: 5px;
+
+}
+.third{
+  background-color: white;
+  height: 540px;
+   width: 210px;
+   float: left;
+   color:black;
+   border-radius: 10px;
+
+}
+.fourth{
+  background-color: white;
+  height:200px ;
+  width: 200px;
+  float:left;
+  color:black;
+  border-radius:5px ;
+}
+.fifth{
+  background-color: black;
+  height: 208px;
+  width:420px ;
+  float: left;
+  border-radius: 15px;
+}
